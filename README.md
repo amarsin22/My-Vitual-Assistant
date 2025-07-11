@@ -1,4 +1,4 @@
-#virtual assistant## 🧠 My Virtual Assistant (Voice-Activated)
+🧠 My Virtual Assistant (Voice-Activated)
 
 🚀 **Live Demo**: [Click to View](https://amarsin22.github.io/My-Vitual-Assistant/)
 
